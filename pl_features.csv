@@ -1,0 +1,733 @@
+﻿Date,HomeTeam,AwayTeam,FTR,home_gf_avg_last5,home_ga_avg_last5,home_pts_avg_last5,away_gf_avg_last5,away_ga_avg_last5,away_pts_avg_last5,target
+2020-01-11,Newcastle,Everton,H,1.2,1.8,0.6,1.6,1.4,2.0,1
+2020-01-11,Aston Villa,Southampton,A,1.2,1.2,1.0,1.6,1.8,1.0,2
+2020-01-11,Man United,Arsenal,A,1.8,0.8,1.6,0.0,0.0,0.0,2
+2020-01-11,Tottenham,Brighton,H,0.4,2.8,0.2,1.2,1.0,1.6,1
+2020-02-11,Fulham,West Brom,H,1.6,1.0,1.8,0.0,2.0,0.2,1
+2020-02-11,Leeds,Leicester,A,1.0,1.6,0.4,1.2,2.6,0.4,2
+2020-03-10,Newcastle,Burnley,H,2.0,1.0,3.0,1.6,1.2,1.6,1
+2020-03-10,Leeds,Man City,D,1.0,4.0,0.0,1.2,1.8,1.0,0
+2020-03-10,Everton,Brighton,H,1.0,2.0,0.0,1.0,2.0,0.0,1
+2020-03-10,Chelsea,Crystal Palace,H,1.0,1.8,0.4,1.0,0.8,1.6,1
+2020-04-10,Wolves,Fulham,H,1.2,1.6,1.0,2.0,0.0,3.0,1
+2020-04-10,Southampton,West Brom,H,4.0,3.0,3.0,0.0,2.0,0.0,1
+2020-04-10,Man United,Tottenham,A,0.0,1.0,0.0,2.0,1.0,3.0,2
+2020-04-10,Aston Villa,Liverpool,H,3.0,4.0,0.0,1.0,2.0,0.4,1
+2020-04-10,Leicester,West Ham,A,4.0,1.0,3.0,0.8,1.2,0.8,2
+2020-04-10,Arsenal,Sheffield United,H,1.0,0.0,3.0,1.4,0.8,1.6,1
+2020-05-12,Man City,Fulham,H,1.0,1.0,1.0,1.0,0.5,1.5,1
+2020-05-12,West Ham,Man United,A,3.0,0.0,3.0,0.5,3.5,0.0,2
+2020-05-12,Burnley,Everton,D,1.0,3.0,0.0,2.5,2.0,1.5,0
+2020-05-12,Chelsea,Leeds,H,4.0,0.0,3.0,1.0,2.5,0.5,1
+2020-06-11,Southampton,Newcastle,H,3.0,1.5,3.0,2.5,1.0,3.0,1
+2020-06-11,Brighton,Burnley,D,1.5,3.0,0.0,1.0,2.0,0.5,0
+2020-06-12,Sheffield United,Leicester,A,1.0,2.0,0.0,2.0,2.0,1.5,2
+2020-06-12,Liverpool,Wolves,H,2.0,7.0,0.0,1.0,0.0,3.0,1
+2020-06-12,West Brom,Crystal Palace,A,0.0,2.0,0.0,0.0,4.0,0.0,2
+2020-06-12,Tottenham,Arsenal,H,4.0,1.0,3.0,1.5,0.5,3.0,1
+2020-07-11,Chelsea,Sheffield United,H,3.5,0.5,3.0,1.0,2.0,0.0,1
+2020-07-11,Everton,Man United,A,2.0,1.6666666666666667,1.3333333333333333,1.3333333333333333,2.6666666666666665,1.0,2
+2020-07-11,Crystal Palace,Leeds,H,2.5,2.5,1.5,1.0,2.6666666666666665,0.3333333333333333,1
+2020-07-11,West Ham,Fulham,H,2.0,1.5,1.5,0.6666666666666666,1.0,1.0,1
+2020-07-12,Brighton,Southampton,A,1.0,2.0,0.3333333333333333,2.6666666666666665,1.0,3.0,2
+2020-08-11,Leicester,Wolves,H,2.0,1.6666666666666667,2.0,0.5,2.0,1.5,1
+2020-08-11,Man City,Liverpool,D,1.5,0.5,2.0,3.0,3.5,1.5,0
+2020-08-11,Arsenal,Aston Villa,A,1.0,1.0,2.0,5.0,3.0,1.5,2
+2020-08-11,West Brom,Tottenham,A,0.3333333333333333,3.0,0.0,3.3333333333333335,0.6666666666666666,3.0,2
+2020-11-12,Leeds,West Ham,A,1.0,3.0,0.25,1.6666666666666667,1.0,2.0,2
+2020-12-09,Fulham,Arsenal,A,0.5,1.0,0.75,0.75,1.5,1.5,2
+2020-12-09,West Ham,Newcastle,A,1.75,1.0,2.25,1.6666666666666667,1.3333333333333333,2.0,2
+2020-12-09,Liverpool,Leeds,H,2.3333333333333335,2.6666666666666665,1.3333333333333333,1.0,2.8,0.2,1
+2020-12-09,Crystal Palace,Southampton,H,3.0,2.0,2.0,2.5,1.0,3.0,1
+2020-12-12,Everton,Chelsea,H,1.75,2.0,1.0,3.6666666666666665,0.6666666666666666,3.0,1
+2020-12-12,Man United,Man City,D,1.75,2.25,1.5,1.3333333333333333,0.6666666666666666,1.6666666666666667,0
+2020-12-12,Newcastle,West Brom,H,1.75,1.0,2.25,0.25,2.5,0.0,1
+2020-12-12,Wolves,Aston Villa,A,0.3333333333333333,1.6666666666666667,1.0,4.333333333333333,2.0,2.0,2
+2021-01-01,Everton,West Ham,A,1.6,1.6,1.4,1.4,1.2,1.8,2
+2021-01-01,Man United,Aston Villa,H,1.4,1.8,1.4,3.5,1.5,2.25,1
+2021-01-03,Everton,Southampton,H,1.4,1.4,1.4,2.0,1.0,2.4,1
+2021-01-05,Everton,Aston Villa,A,0.8,1.0,1.4,3.0,1.6,1.8,2
+2021-01-05,Chelsea,Fulham,H,2.75,0.75,2.25,0.4,1.4,0.6,1
+2021-01-05,Crystal Palace,Man City,A,2.5,1.5,2.25,1.0,0.5,1.5,2
+2021-01-05,Brighton,Leeds,H,1.0,2.0,0.25,1.4,2.8,0.2,1
+2021-01-11,Wolves,Everton,H,0.25,1.5,0.75,0.8,1.2,1.2,1
+2021-01-12,Wolves,Burnley,D,0.6,1.4,1.2,0.6666666666666666,1.3333333333333333,0.6666666666666666,0
+2021-01-12,Watford,Chelsea,A,1.4,1.6,1.0,2.6,0.6,2.4,2
+2021-01-12,West Ham,Brighton,D,1.0,1.2,1.8,1.2,1.6,0.8,0
+2021-01-12,Aston Villa,Man City,A,2.8,1.0,2.4,1.2,0.4,1.8,2
+2021-01-12,Everton,Liverpool,A,0.8,1.0,1.2,2.75,2.75,1.75,2
+2021-01-12,Southampton,Leicester,D,1.2,0.6,1.8,1.75,1.25,2.25,0
+2021-02-01,West Brom,Arsenal,A,0.4,2.4,0.0,1.2,1.2,1.8,2
+2021-02-01,Brighton,Wolves,D,1.2,1.4,1.0,0.4,1.4,0.8,0
+2021-02-01,Crystal Palace,Sheffield United,H,2.0,1.6,1.8,1.0,2.6666666666666665,0.0,1
+2021-02-01,Tottenham,Leeds,H,2.75,0.5,3.0,1.2,3.0,0.0,1
+2021-02-02,Man United,Southampton,H,1.8,1.8,2.0,1.2,1.0,1.4,1
+2021-02-02,Newcastle,Crystal Palace,A,1.8,1.0,2.4,2.4,0.8,2.4,2
+2021-02-02,Wolves,Arsenal,H,1.0,1.2,1.0,1.8,1.2,1.8,1
+2021-02-02,Sheffield United,West Brom,H,0.75,2.5,0.0,0.4,2.8,0.0,1
+2021-02-03,Man City,Wolves,H,1.4,0.4,2.2,1.4,1.2,1.6,1
+2021-02-05,Tottenham,Sheffield United,H,2.8,0.4,3.0,1.0,2.2,0.6,1
+2021-02-05,Newcastle,Arsenal,A,1.6,1.2,1.8,1.6,1.4,1.2,2
+2021-02-10,Chelsea,Southampton,H,2.2,0.8,2.4,0.8,2.8,0.8,1
+2021-02-10,Burnley,Norwich,D,0.5,1.0,0.75,1.8,0.4,2.6,0
+2021-02-10,Man United,Everton,D,3.4,0.6,2.6,0.8,1.8,0.6,0
+2021-02-10,Leeds,Watford,H,1.0,3.0,0.0,1.0,2.0,0.0,1
+2021-02-10,Wolves,Newcastle,H,1.6,1.8,1.6,1.0,1.4,1.2,1
+2021-02-10,Brighton,Arsenal,D,1.4,1.2,1.2,2.0,1.0,1.8,0
+2021-02-12,Man United,Arsenal,H,3.0,0.6,2.2,2.0,0.4,2.0,1
+2021-02-12,Tottenham,Brentford,H,3.2,0.2,3.0,1.4,1.2,1.6,1
+2021-03-01,Chelsea,Man City,A,2.2,0.8,2.4,1.8,0.6,2.2,2
+2021-03-01,Newcastle,Leicester,A,1.2,1.4,1.2,1.8,1.4,2.0,2
+2021-03-02,Leeds,Everton,A,1.0,2.2,0.6,1.0,1.8,0.8,2
+2021-03-02,Liverpool,Brighton,A,3.0,2.4,2.0,1.4,1.2,1.2,2
+2021-03-02,Aston Villa,West Ham,A,1.6,1.0,1.8,1.0,0.8,2.0,2
+2021-03-02,Burnley,Man City,A,0.4,0.8,0.8,2.2,0.6,2.6,2
+2021-03-02,Fulham,Leicester,A,0.0,1.8,0.0,1.4,1.4,2.0,2
+2021-03-03,Sheffield United,Aston Villa,H,0.8,2.6,0.6,1.2,1.6,1.2,1
+2021-03-03,Crystal Palace,Man United,D,1.8,0.8,2.4,3.0,0.8,2.2,0
+2021-03-03,Burnley,Leicester,D,0.2,0.6,0.8,1.8,0.8,2.6,0
+2021-03-04,Arsenal,Liverpool,A,1.8,1.0,1.4,2.6,1.2,2.0,2
+2021-03-04,Chelsea,West Brom,A,1.6,1.2,1.8,0.6,2.8,0.0,2
+2021-03-04,Leeds,Sheffield United,H,1.0,2.2,0.6,0.8,2.2,1.2,1
+2021-03-04,Leicester,Man City,A,1.6,0.8,2.2,2.6,0.6,3.0,2
+2021-03-05,Burnley,West Ham,A,0.2,0.6,0.8,1.4,1.0,2.0,2
+2021-03-05,West Brom,Wolves,D,1.4,2.2,0.6,1.6,1.8,1.6,0
+2021-03-10,Crystal Palace,Leicester,D,1.0,0.6,2.0,1.4,1.2,1.6,0
+2021-03-10,Tottenham,Aston Villa,H,2.4,0.0,3.0,1.0,1.8,0.6,1
+2021-03-10,West Ham,Brentford,A,1.4,1.0,2.0,0.0,2.0,0.0,2
+2021-03-10,Liverpool,Man City,D,2.4,1.2,2.0,2.6,0.6,3.0,0
+2021-04-01,Southampton,Liverpool,H,0.6,3.2,0.2,2.6,1.4,2.0,1
+2021-04-02,Tottenham,Chelsea,A,2.4,0.2,3.0,2.0,2.0,1.8,2
+2021-04-03,Fulham,Tottenham,A,0.0,2.0,0.0,2.2,0.4,2.4,2
+2021-04-03,West Brom,Everton,A,1.6,2.2,0.8,1.2,2.0,0.8,2
+2021-04-03,Liverpool,Chelsea,A,1.8,1.0,1.4,1.8,2.0,1.8,2
+2021-04-04,Southampton,Burnley,H,0.8,3.0,0.8,0.4,1.0,0.6,1
+2021-04-04,Newcastle,Tottenham,D,1.0,1.8,0.6,1.8,0.4,2.4,0
+2021-04-04,Man United,Brighton,H,3.0,0.8,2.2,1.4,0.8,1.8,1
+2021-04-04,Aston Villa,Fulham,H,1.0,1.8,0.6,0.0,1.8,0.0,1
+2021-04-12,Southampton,Brighton,D,1.4,3.2,1.4,1.2,1.2,1.2,0
+2021-04-12,West Ham,Chelsea,H,1.6,1.0,2.0,1.6,1.8,1.8,1
+2021-04-12,Newcastle,Burnley,H,1.0,2.0,0.2,0.8,1.6,0.4,1
+2021-04-12,Wolves,Liverpool,A,1.8,2.0,1.6,1.0,1.0,0.8,2
+2021-04-12,Watford,Man City,A,0.5,1.5,0.0,2.6,0.8,2.6,2
+2021-05-04,Wolves,West Ham,A,1.2,1.6,1.4,2.0,1.4,2.0,2
+2021-05-04,Everton,Crystal Palace,D,1.2,1.6,1.4,1.2,1.0,1.6,0
+2021-05-11,Southampton,Aston Villa,H,1.2,3.0,1.4,1.2,1.8,0.6,1
+2021-05-12,Leeds,Brentford,D,0.8,1.6,1.2,1.0,1.5,1.5,0
+2021-05-12,Tottenham,Norwich,H,1.4,0.8,2.0,0.0,0.0,1.0,1
+2021-05-12,Aston Villa,Leicester,H,1.0,1.6,0.6,1.4,1.2,1.6,1
+2021-05-12,Man United,Crystal Palace,H,3.0,0.8,2.2,1.4,0.8,1.8,1
+2021-06-02,Newcastle,Southampton,H,1.0,1.6,0.8,1.4,1.2,2.0,1
+2021-06-02,Burnley,Brighton,D,0.8,1.8,0.2,1.2,1.2,1.2,0
+2021-06-02,Man United,Everton,D,1.4,0.8,2.2,1.2,1.4,1.6,0
+2021-06-02,Fulham,West Ham,D,0.2,2.2,0.0,2.4,1.6,2.4,0
+2021-06-02,Aston Villa,Arsenal,H,1.2,1.2,1.2,1.0,1.6,0.8,1
+2021-06-03,Burnley,Arsenal,D,1.0,1.6,0.4,0.8,1.4,0.8,0
+2021-06-03,Brighton,Leicester,A,0.8,0.8,1.2,1.2,1.4,1.0,2
+2021-06-03,Aston Villa,Wolves,D,1.4,1.0,1.8,1.2,2.0,0.8,0
+2021-06-03,Sheffield United,Southampton,A,0.8,1.8,1.2,1.6,1.2,2.0,2
+2021-06-11,Brentford,Norwich,A,1.3333333333333333,1.6666666666666667,1.3333333333333333,0.0,1.5,0.5,2
+2021-06-11,Chelsea,Burnley,D,1.4,2.2,1.2,1.0,1.6,0.4,0
+2021-06-11,Crystal Palace,Wolves,H,1.0,1.0,1.2,1.0,1.2,1.0,1
+2021-06-11,Brighton,Newcastle,D,1.0,1.2,1.0,1.6,1.6,1.4,0
+2021-06-11,Man United,Man City,A,1.8,1.2,2.2,2.4,0.8,2.6,2
+2021-06-12,Everton,Arsenal,H,1.6,1.2,1.8,0.6,1.6,0.4,1
+2021-07-02,Liverpool,Man City,A,1.2,0.8,1.4,2.2,0.6,2.6,2
+2021-07-02,Wolves,Leicester,D,0.6,1.4,0.4,1.2,1.6,1.0,0
+2021-07-02,Sheffield United,Chelsea,A,0.8,1.8,1.2,1.4,1.8,1.4,2
+2021-07-02,Tottenham,West Brom,H,1.6,0.8,2.0,1.4,2.0,0.8,1
+2021-07-03,Man City,Man United,A,2.6,0.8,2.6,1.2,1.2,1.6,2
+2021-07-03,West Brom,Newcastle,D,1.4,1.6,0.8,1.6,1.4,1.6,0
+2021-07-03,Liverpool,Fulham,A,0.8,1.6,0.8,0.2,1.6,0.2,2
+2021-07-03,Tottenham,Crystal Palace,H,1.6,0.6,2.0,1.0,0.8,1.2,1
+2021-07-05,Leicester,Newcastle,A,1.0,1.4,1.0,1.4,1.0,1.8,2
+2021-07-11,Everton,Tottenham,D,1.8,1.2,2.2,2.4,0.6,2.6,0
+2021-07-11,Leeds,Leicester,D,1.2,1.6,1.4,1.4,1.8,1.0,0
+2021-07-11,Arsenal,Watford,H,0.8,2.0,0.2,0.6666666666666666,2.0,0.0,1
+2021-07-11,West Ham,Liverpool,H,1.8,1.4,2.0,0.4,1.4,0.6,1
+2021-08-02,Leeds,Crystal Palace,H,1.4,1.2,1.6,1.2,1.6,1.0,1
+2021-08-03,West Ham,Leeds,H,2.0,1.6,2.0,1.6,1.2,1.6,1
+2021-08-03,Chelsea,Everton,H,1.4,1.0,2.0,1.4,1.0,1.8,1
+2021-08-05,Leeds,Tottenham,H,1.4,1.2,1.6,2.2,0.6,2.2,1
+2021-08-05,Liverpool,Southampton,H,0.8,1.8,0.6,1.8,1.2,2.0,1
+2021-08-05,Sheffield United,Crystal Palace,A,0.6,2.0,0.6,0.8,1.6,0.8,2
+2021-08-05,Man City,Chelsea,A,2.2,1.2,2.0,1.6,1.0,2.0,2
+2021-09-04,Fulham,Wolves,A,0.4,1.2,0.8,0.4,1.2,0.4,2
+2021-09-05,Arsenal,West Brom,H,0.6,1.4,0.8,1.2,1.2,1.0,1
+2021-09-05,Wolves,Brighton,H,0.6,1.0,1.0,1.0,1.4,0.6,1
+2021-09-05,Aston Villa,Man United,A,1.2,0.6,2.0,1.6,1.2,2.0,2
+2021-09-05,West Ham,Everton,A,2.2,1.2,2.6,1.2,1.4,1.2,2
+2021-10-03,Man City,Southampton,H,2.0,1.2,1.8,1.2,1.2,1.4,1
+2021-10-04,Man City,Leeds,A,2.4,1.4,1.8,1.6,1.2,1.6,2
+2021-10-04,Crystal Palace,Chelsea,A,1.0,1.4,1.2,1.8,1.2,2.0,2
+2021-10-04,Liverpool,Aston Villa,H,1.2,1.6,1.2,0.8,1.0,1.4,1
+2021-10-05,Fulham,Burnley,A,0.4,1.0,0.8,1.0,1.4,0.6,2
+2021-10-12,Brentford,Watford,H,1.25,1.75,1.0,0.5,1.75,0.0,1
+2021-11-04,Burnley,Newcastle,A,1.0,0.8,1.2,1.8,1.0,2.2,2
+2021-11-04,West Ham,Leicester,H,1.6,1.0,2.0,1.2,1.6,1.0,1
+2021-11-04,Tottenham,Man United,A,2.0,0.8,2.0,1.8,1.2,2.0,2
+2021-11-04,Sheffield United,Arsenal,A,0.6,1.6,0.6,1.2,1.0,1.4,2
+2021-11-05,Southampton,Crystal Palace,H,1.4,2.0,1.2,1.2,2.0,1.2,1
+2021-11-05,Man United,Leicester,A,2.2,1.4,2.0,1.4,1.8,1.0,2
+2021-11-09,Chelsea,Aston Villa,H,2.2,0.8,2.6,1.0,1.2,1.4,1
+2021-11-09,Watford,Wolves,A,0.6,1.8,0.0,0.6,0.6,1.6,2
+2021-11-09,Southampton,West Ham,D,1.8,2.2,1.2,1.6,1.0,2.0,0
+2021-11-09,Man United,Newcastle,H,1.8,1.2,1.8,2.0,1.2,2.2,1
+2021-11-09,Crystal Palace,Tottenham,H,1.0,2.6,0.6,1.6,1.4,1.4,1
+2021-11-09,Brentford,Brighton,A,1.4,1.6,1.4,1.0,1.4,0.6,2
+2021-11-09,Arsenal,Norwich,H,1.8,0.8,2.0,0.6666666666666666,1.3333333333333333,1.3333333333333333,1
+2021-11-09,Leicester,Man City,A,1.4,1.8,1.0,2.2,1.8,1.2,2
+2021-11-12,Arsenal,Southampton,H,1.8,0.6,2.4,1.4,1.6,1.4,1
+2021-11-12,Norwich,Man United,A,0.5,1.25,1.0,2.6,1.0,2.4,2
+2021-11-12,Liverpool,Aston Villa,H,1.4,1.8,1.2,0.6,1.6,0.8,1
+2021-11-12,Chelsea,Leeds,H,2.6,0.6,3.0,1.6,1.0,2.0,1
+2021-11-12,Man City,Wolves,H,1.6,1.6,1.2,1.0,0.6,2.0,1
+2021-12-01,Wolves,Everton,A,1.0,0.4,2.0,1.2,1.2,1.6,2
+2021-12-01,Burnley,Man United,A,1.2,1.0,1.2,2.4,1.0,2.4,2
+2021-12-01,Sheffield United,Newcastle,H,0.4,2.2,0.0,1.6,1.6,1.6,1
+2021-12-03,Newcastle,Aston Villa,D,1.4,1.6,1.4,0.4,1.8,0.2,0
+2021-12-04,West Brom,Southampton,H,0.4,1.4,0.4,1.0,2.2,0.8,1
+2021-12-04,Brighton,Everton,D,1.0,1.2,1.0,1.0,0.8,2.0,0
+2021-12-05,Chelsea,Arsenal,A,2.8,0.8,3.0,2.2,0.2,3.0,2
+2021-12-09,Leeds,Liverpool,A,1.8,1.4,1.8,1.4,1.0,1.8,2
+2021-12-12,Burnley,West Ham,D,1.0,1.0,1.0,1.6,1.0,2.0,0
+2021-12-12,Leicester,Newcastle,H,1.4,2.0,0.8,1.6,1.8,1.4,1
+2021-12-12,Crystal Palace,Everton,H,1.4,1.8,1.2,0.6,0.6,1.6,1
+2022-01-01,Arsenal,Man City,A,2.2,0.2,3.0,1.8,1.2,1.8,2
+2022-01-01,Watford,Tottenham,A,0.4,1.8,0.0,1.2,2.0,0.8,2
+2022-01-01,Crystal Palace,West Ham,A,2.0,1.6,1.8,1.0,0.6,1.6,2
+2022-01-03,Burnley,Leicester,A,0.8,0.8,1.0,1.8,1.2,1.4,2
+2022-01-05,Everton,Chelsea,H,0.8,1.2,1.4,2.4,1.0,2.4,1
+2022-01-05,Tottenham,Leicester,H,0.6,1.8,0.8,2.0,1.0,1.8,1
+2022-01-05,West Ham,Arsenal,A,1.2,1.0,1.6,1.8,0.4,2.4,2
+2022-01-09,Leicester,Man United,A,1.8,1.0,1.8,2.0,0.8,2.4,2
+2022-01-10,West Ham,Wolves,H,1.4,1.2,1.6,1.2,0.8,1.8,1
+2022-01-10,Southampton,Everton,A,1.0,2.4,0.8,1.0,0.8,2.0,2
+2022-01-10,Liverpool,Brighton,D,2.0,0.8,2.4,0.8,1.0,1.0,0
+2022-01-10,Fulham,Newcastle,A,0.4,1.2,0.8,0.8,2.2,0.8,2
+2022-01-10,Crystal Palace,Chelsea,A,2.0,2.2,1.2,2.0,1.0,1.8,2
+2022-01-10,Bournemouth,Brentford,D,1.8,0.4,3.0,1.4,1.4,1.4,0
+2022-01-10,Arsenal,Tottenham,H,1.6,0.6,2.4,1.2,2.0,1.2,1
+2022-02-01,Everton,Brighton,A,1.2,1.0,2.0,1.2,1.2,1.2,2
+2022-02-01,Leeds,Burnley,H,1.4,2.0,1.2,0.6,1.0,0.8,1
+2022-02-01,Brentford,Aston Villa,H,1.0,1.2,1.0,0.6,2.0,0.2,1
+2022-02-01,Chelsea,Liverpool,D,1.6,1.0,1.8,2.2,0.8,2.6,0
+2022-02-04,Wolves,Aston Villa,H,1.0,1.2,1.2,0.6,1.8,0.2,1
+2022-02-04,Burnley,Man City,A,0.4,1.6,0.2,2.0,1.0,2.4,2
+2022-02-04,Liverpool,Watford,H,2.2,1.2,2.2,0.4,1.8,0.0,1
+2022-02-04,Brighton,Norwich,D,1.6,1.4,1.6,0.4,1.2,0.8,0
+2022-02-04,Leeds,Southampton,D,2.0,1.8,1.8,0.8,1.8,0.8,0
+2022-02-04,Chelsea,Brentford,A,1.4,1.4,1.4,1.0,1.0,1.4,2
+2022-02-04,Man United,Leicester,D,1.6,0.6,2.4,1.4,1.0,1.2,0
+2022-02-05,Man United,Brentford,H,1.6,0.4,2.6,1.6,0.8,2.0,1
+2022-02-10,Man City,Man United,H,1.4,0.6,2.4,1.4,0.2,2.6,1
+2022-02-10,Leeds,Aston Villa,D,1.6,1.8,1.4,0.6,1.8,0.2,0
+2022-03-01,Man United,Wolves,A,1.8,1.4,2.0,1.0,1.2,1.2,2
+2022-03-04,West Ham,Everton,H,1.2,0.8,1.6,1.2,1.4,1.4,1
+2022-03-04,Tottenham,Newcastle,H,1.2,2.0,1.2,1.2,2.2,0.8,1
+2022-03-09,Aston Villa,Man City,D,0.6,1.2,0.4,2.4,0.8,3.0,0
+2022-03-09,Tottenham,Fulham,H,2.0,1.6,1.8,0.4,1.4,0.8,1
+2022-03-09,Nott'm Forest,Bournemouth,A,0.6,2.4,0.6,0.0,0.0,1.0,2
+2022-03-09,Chelsea,West Ham,H,1.0,1.8,0.8,1.6,1.0,2.0,1
+2022-03-09,Wolves,Southampton,H,0.8,1.2,1.2,0.4,1.8,0.4,1
+2022-03-09,Newcastle,Crystal Palace,D,1.2,2.4,0.8,2.0,1.8,1.2,0
+2022-03-09,Brentford,Leeds,H,1.2,1.2,1.4,1.2,1.6,1.0,1
+2022-03-09,Everton,Liverpool,D,1.4,1.8,1.2,2.2,1.0,2.2,0
+2022-03-10,Leicester,Nott'm Forest,H,1.6,1.0,1.4,2.0,3.0,0.0,1
+2022-04-04,Crystal Palace,Arsenal,H,1.8,1.2,1.4,2.0,0.8,2.4,1
+2022-04-09,Brighton,Leicester,H,1.4,1.0,1.8,1.6,1.0,1.4,1
+2022-04-09,Man United,Arsenal,H,1.6,1.6,1.4,1.4,1.4,1.8,1
+2022-05-02,Burnley,Watford,D,0.2,1.6,0.2,0.2,1.6,0.0,0
+2022-05-03,Norwich,Brentford,A,0.4,1.2,0.8,2.2,1.4,2.0,2
+2022-05-03,Leicester,Leeds,H,1.6,2.0,0.8,1.2,2.0,1.0,1
+2022-05-03,Liverpool,West Ham,H,2.0,1.0,1.8,1.8,1.4,1.8,1
+2022-05-03,Burnley,Chelsea,A,0.2,1.4,0.4,1.4,1.8,1.4,2
+2022-05-03,Newcastle,Brighton,H,1.2,2.2,1.0,2.2,1.4,1.8,1
+2022-05-03,Wolves,Crystal Palace,A,1.0,1.0,1.8,1.8,1.2,1.4,2
+2022-05-03,Aston Villa,Southampton,H,0.8,1.2,0.6,0.4,2.0,0.2,1
+2022-05-08,Crystal Palace,Arsenal,A,1.6,1.0,1.4,1.4,2.0,1.2,2
+2022-05-11,Everton,Leicester,A,1.2,1.2,1.4,1.6,1.4,1.4,2
+2022-05-11,Leeds,Bournemouth,H,1.2,1.6,1.0,1.5,1.0,2.0,1
+2022-05-11,Man City,Fulham,H,2.4,1.0,2.6,0.6,1.8,0.6,1
+2022-05-11,Wolves,Brighton,A,0.8,1.0,1.8,2.4,1.8,1.6,2
+2022-05-11,Nott'm Forest,Brentford,D,1.0,3.5,0.0,2.8,1.6,2.4,0
+2022-06-03,Watford,Arsenal,A,0.2,1.4,0.2,1.6,1.6,1.8,2
+2022-06-03,Man City,Man United,H,2.6,1.2,2.6,2.0,1.8,1.4,1
+2022-06-04,Burnley,Everton,H,0.2,2.2,0.2,1.0,1.6,0.8,1
+2022-06-08,Tottenham,Southampton,H,2.4,1.2,2.4,0.4,2.2,0.2,1
+2022-06-08,Newcastle,Nott'm Forest,H,1.4,2.2,1.4,1.3333333333333333,3.0,0.3333333333333333,1
+2022-06-08,Bournemouth,Aston Villa,H,2.0,2.0,1.3333333333333333,1.4,1.0,1.0,1
+2022-06-08,Fulham,Liverpool,D,0.6,2.2,0.0,1.6,1.0,1.8,0
+2022-06-08,Leeds,Wolves,H,1.4,2.0,1.0,1.2,1.2,1.8,1
+2022-06-08,Everton,Chelsea,A,1.0,2.0,0.2,2.2,1.6,2.0,2
+2022-06-11,Chelsea,Arsenal,A,2.0,1.4,2.0,1.8,1.8,1.8,2
+2022-06-11,Southampton,Newcastle,A,0.6,2.4,0.2,1.8,1.4,2.0,2
+2022-06-11,West Ham,Crystal Palace,A,1.2,1.2,1.2,1.2,0.8,1.4,2
+2022-06-11,Tottenham,Liverpool,A,3.0,1.4,2.4,1.4,0.8,1.8,2
+2022-06-11,Aston Villa,Man United,H,1.2,1.0,1.0,2.0,2.4,1.2,1
+2022-07-03,Tottenham,Everton,H,2.6,1.6,1.8,0.6,1.6,0.2,1
+2022-07-05,Liverpool,Tottenham,D,1.4,0.6,2.2,3.4,1.0,2.4,0
+2022-07-05,Crystal Palace,Watford,H,1.4,0.6,2.0,0.4,1.6,0.2,1
+2022-07-05,Chelsea,Wolves,D,1.6,1.2,1.8,1.0,1.4,1.2,0
+2022-07-05,Brentford,Southampton,H,2.8,1.8,2.0,0.6,2.8,0.2,1
+2022-07-05,Burnley,Aston Villa,A,0.8,2.2,0.8,1.6,0.8,1.6,2
+2022-07-05,Brighton,Man United,H,2.4,1.6,2.0,1.6,3.0,0.6,1
+2022-07-08,West Ham,Man City,A,1.2,1.2,1.2,3.0,1.2,2.6,2
+2022-07-08,Leicester,Brentford,D,2.0,1.2,2.0,2.6,1.6,2.0,0
+2022-07-08,Man United,Brighton,A,1.0,2.6,0.6,2.6,1.2,2.0,2
+2022-08-02,West Ham,Watford,H,0.8,1.6,0.6,0.4,1.4,0.2,1
+2022-08-02,Burnley,Man United,D,0.8,2.2,0.8,1.2,2.8,0.6,0
+2022-08-02,Newcastle,Everton,H,1.8,1.4,2.0,0.4,2.2,0.2,1
+2022-08-04,Newcastle,Wolves,H,2.2,0.6,2.6,1.2,1.8,0.8,1
+2022-08-05,Man City,Newcastle,H,3.0,1.2,2.6,2.4,0.6,3.0,1
+2022-08-05,Norwich,West Ham,A,0.6,1.2,0.8,0.6,1.4,0.6,2
+2022-08-05,Leicester,Everton,A,2.2,1.4,2.0,0.6,2.8,0.0,2
+2022-08-05,Arsenal,Leeds,H,1.4,1.6,1.8,1.6,2.0,1.4,1
+2022-08-10,Newcastle,Brentford,H,2.0,1.4,2.4,3.0,1.4,2.2,1
+2022-08-10,Brighton,Tottenham,A,3.0,1.4,2.4,2.6,1.0,2.0,2
+2022-08-10,Man City,Southampton,H,2.8,0.6,2.6,0.4,3.2,0.0,1
+2022-08-10,Chelsea,Wolves,H,1.8,0.8,2.0,1.0,2.0,0.2,1
+2022-08-10,Bournemouth,Leicester,H,2.0,1.5,1.75,1.6,1.8,1.4,1
+2022-09-02,Aston Villa,Leeds,D,2.2,1.0,2.0,1.8,2.4,1.2,0
+2022-09-02,Tottenham,Southampton,A,2.4,0.8,2.0,0.4,3.8,0.0,2
+2022-09-02,Man City,Brentford,H,3.4,0.4,3.0,2.2,2.0,1.6,1
+2022-09-02,Norwich,Crystal Palace,D,0.2,1.8,0.2,1.6,0.6,2.4,0
+2022-09-04,Everton,Man United,H,1.0,2.6,0.6,0.8,2.8,0.2,1
+2022-09-04,Aston Villa,Tottenham,A,2.6,1.4,2.0,2.0,1.2,1.4,2
+2022-09-04,Watford,Leeds,A,0.4,1.4,0.2,2.0,2.0,1.4,2
+2022-09-04,Southampton,Chelsea,A,1.0,3.4,0.6,2.0,0.6,2.0,2
+2022-09-04,Arsenal,Brighton,A,1.8,1.2,2.4,2.0,1.2,1.8,2
+2022-09-10,Arsenal,Liverpool,H,1.8,1.0,2.4,1.2,0.8,1.8,1
+2022-09-10,Everton,Man United,A,0.8,2.0,1.2,0.6,2.2,0.2,2
+2022-09-10,West Ham,Fulham,H,1.2,1.0,1.2,1.0,2.4,0.2,1
+2022-09-10,Crystal Palace,Leeds,H,1.2,0.8,2.0,2.6,1.8,2.0,1
+2022-10-02,Wolves,Arsenal,A,1.0,2.2,0.2,2.0,1.4,2.4,2
+2022-10-02,Liverpool,Leicester,H,1.6,1.4,1.6,1.4,1.2,1.4,1
+2022-10-03,Southampton,Newcastle,A,0.8,3.8,0.6,2.6,1.6,2.4,2
+2022-10-03,Leeds,Aston Villa,A,2.0,1.6,1.4,1.8,2.2,1.4,2
+2022-10-03,Norwich,Chelsea,A,0.4,1.8,0.4,2.4,0.6,2.0,2
+2022-10-03,Wolves,Watford,H,0.6,1.8,0.2,0.4,1.6,0.2,1
+2022-10-04,Leicester,Crystal Palace,H,1.2,1.6,0.8,1.2,1.0,2.0,1
+2022-10-04,Brentford,West Ham,H,1.6,2.2,1.0,1.8,1.0,1.8,1
+2022-10-04,Norwich,Burnley,H,0.6,2.2,0.4,1.0,2.0,1.0,1
+2022-10-04,Man City,Liverpool,D,3.4,0.2,3.0,1.8,1.4,1.6,0
+2022-10-05,Aston Villa,Liverpool,A,2.4,1.8,2.0,1.8,1.4,1.6,2
+2022-10-10,Nott'm Forest,Aston Villa,D,1.0,2.75,0.25,2.0,2.0,1.4,0
+2022-11-01,Southampton,Brentford,H,0.8,3.4,0.6,1.6,1.8,1.4,1
+2022-11-05,Leicester,Norwich,H,1.2,1.8,0.8,1.0,2.2,0.8,1
+2022-11-05,Wolves,Man City,A,1.2,1.4,0.8,3.0,0.4,2.6,2
+2022-11-05,Watford,Everton,D,0.4,2.4,0.0,1.0,2.2,1.2,0
+2022-11-05,Leeds,Chelsea,A,1.6,2.0,0.8,2.8,0.8,2.0,2
+2022-12-01,West Ham,Norwich,H,1.6,1.0,1.8,0.8,2.2,0.8,1
+2022-12-02,Everton,Leeds,H,1.0,1.2,1.4,1.4,2.2,0.8,1
+2022-12-02,Watford,Brighton,A,0.0,1.8,0.2,2.2,1.0,2.4,2
+2022-12-02,Brentford,Crystal Palace,D,1.2,2.6,0.8,1.4,1.0,2.0,0
+2022-12-02,Norwich,Man City,A,0.8,1.8,0.8,3.6,0.6,2.6,2
+2022-12-02,Man United,Southampton,D,0.8,1.8,0.8,1.6,3.0,1.2,0
+2022-12-03,Brentford,Burnley,H,0.8,2.2,0.8,1.0,2.4,0.8,1
+2022-12-03,Brighton,Liverpool,A,2.0,0.6,2.4,1.8,1.4,1.6,2
+2022-12-03,Man United,Tottenham,H,1.0,1.2,1.0,2.6,0.8,2.0,1
+2022-12-05,Tottenham,Arsenal,H,2.0,1.4,1.4,1.6,1.0,2.4,1
+2022-12-11,Nott'm Forest,Crystal Palace,H,1.0,2.4,0.4,1.0,0.8,1.6,1
+2022-12-11,Bournemouth,Everton,H,2.0,1.4,2.0,1.4,0.6,2.0,1
+2022-12-11,Liverpool,Southampton,H,2.0,1.2,2.0,1.8,2.4,1.4,1
+2022-12-11,Man City,Brentford,A,3.4,0.6,2.6,1.0,1.2,1.4,2
+2022-12-11,Wolves,Arsenal,A,1.0,2.0,0.6,1.4,1.6,1.8,2
+2022-12-11,Newcastle,Chelsea,H,2.2,1.6,2.4,3.4,0.6,2.6,1
+2022-12-11,West Ham,Leicester,A,2.0,0.6,2.4,1.4,1.4,1.2,2
+2022-12-11,Tottenham,Leeds,H,2.4,1.2,1.8,0.8,2.2,0.6,1
+2023-01-01,Nott'm Forest,Chelsea,D,0.8,1.8,1.0,3.0,0.4,2.4,0
+2023-01-01,Tottenham,Aston Villa,A,3.0,1.8,1.8,1.6,2.0,1.0,2
+2023-01-03,Liverpool,Wolves,H,2.2,0.8,2.6,1.0,2.2,0.6,1
+2023-01-03,Arsenal,Everton,H,1.4,1.4,1.8,1.0,1.0,1.4,1
+2023-01-04,Arsenal,Leeds,H,2.0,1.0,2.4,0.8,3.0,0.0,1
+2023-01-04,Man City,Liverpool,H,2.8,1.0,2.0,2.2,0.8,2.6,1
+2023-01-04,Bournemouth,Fulham,H,2.6,1.4,2.4,1.2,2.6,0.2,1
+2023-01-04,Brighton,Brentford,D,1.2,1.0,1.8,1.4,1.0,2.0,0
+2023-01-04,Crystal Palace,Leicester,H,0.8,1.0,1.0,1.6,1.0,1.8,1
+2023-01-04,Nott'm Forest,Wolves,D,1.0,1.2,1.2,1.0,2.0,0.6,0
+2023-01-04,Chelsea,Aston Villa,A,2.6,0.6,2.0,1.4,1.4,1.4,2
+2023-01-05,Leicester,Everton,D,1.6,1.0,1.8,0.8,1.8,0.8,0
+2023-01-09,Luton,West Ham,A,2.2,2.0,1.2,1.8,1.0,1.8,2
+2023-01-10,Nott'm Forest,Brentford,D,0.8,1.0,1.2,1.6,1.6,1.6,0
+2023-02-01,Brentford,Liverpool,H,1.6,1.0,1.8,2.0,1.2,2.4,1
+2023-02-04,Newcastle,Man United,H,1.8,1.4,2.4,1.4,1.2,1.6,1
+2023-02-04,West Ham,Southampton,H,1.4,1.2,1.8,1.4,2.6,0.8,1
+2023-02-05,Arsenal,Chelsea,H,2.2,0.8,2.4,1.4,1.0,1.4,1
+2023-02-09,Brighton,Newcastle,H,1.4,1.4,1.4,2.0,1.4,2.4,1
+2023-02-09,Man City,Fulham,H,3.2,1.2,2.0,1.2,2.2,0.2,1
+2023-02-09,Chelsea,Nott'm Forest,A,1.0,1.4,0.8,1.0,0.8,1.4,2
+2023-02-09,Burnley,Tottenham,A,1.0,2.0,0.8,2.6,1.6,1.8,2
+2023-02-09,Sheffield United,Everton,D,0.4,1.8,0.6,1.0,1.8,1.0,0
+2023-02-09,Brentford,Bournemouth,D,2.2,1.2,2.2,2.4,1.2,2.4,0
+2023-02-10,Fulham,Chelsea,A,1.2,2.8,0.2,0.4,1.6,0.2,2
+2023-02-12,Nott'm Forest,Everton,A,1.0,0.6,1.8,1.4,2.2,1.0,2
+2023-02-12,Burnley,Sheffield United,H,0.8,2.6,0.2,0.8,1.8,0.8,1
+2023-02-12,Brentford,Luton,H,2.2,1.6,1.8,1.0,2.0,0.0,1
+2023-02-12,Newcastle,Man United,H,2.2,1.0,2.4,1.2,1.4,1.4,1
+2023-02-12,Arsenal,Wolves,H,2.6,1.0,2.4,1.2,2.0,0.8,1
+2023-03-01,Leicester,Fulham,A,2.0,1.0,2.0,1.0,2.8,0.2,2
+2023-03-01,Man United,Bournemouth,H,1.2,1.4,1.4,2.2,0.8,2.6,1
+2023-03-01,Everton,Brighton,A,1.0,2.2,1.0,2.0,1.4,2.0,2
+2023-03-01,Arsenal,Newcastle,D,3.0,0.6,3.0,1.4,0.8,2.4,0
+2023-03-02,Chelsea,Fulham,D,0.8,1.4,0.8,0.8,2.4,0.6,0
+2023-03-04,Everton,Tottenham,D,1.2,2.4,1.0,2.8,2.0,1.8,0
+2023-03-05,Man City,West Ham,H,3.8,1.0,2.4,1.0,1.0,1.8,1
+2023-03-05,Liverpool,Fulham,H,1.8,1.6,1.8,0.6,1.8,0.8,1
+2023-03-09,Liverpool,Aston Villa,H,1.6,1.6,1.8,1.8,0.6,2.0,1
+2023-03-09,Arsenal,Man United,H,2.6,0.6,2.6,1.4,1.2,1.4,1
+2023-03-09,Crystal Palace,Wolves,H,1.0,1.0,1.4,0.6,2.4,0.2,1
+2023-03-10,Luton,Burnley,A,1.0,2.5,0.0,1.6,2.0,0.8,2
+2023-03-12,Liverpool,Fulham,H,1.6,1.4,1.8,0.4,1.6,0.8,1
+2023-03-12,Chelsea,Brighton,H,0.6,1.2,0.8,2.4,1.4,2.0,1
+2023-03-12,Man City,Tottenham,D,3.4,0.8,2.4,2.6,1.6,2.0,0
+2023-03-12,West Ham,Crystal Palace,D,1.0,1.2,1.8,1.2,1.2,1.4,0
+2023-03-12,Bournemouth,Aston Villa,D,1.8,1.4,2.0,1.2,1.2,1.4,0
+2023-04-01,Aston Villa,Wolves,D,1.4,1.2,1.6,0.8,2.0,0.2,0
+2023-04-01,Southampton,Nott'm Forest,A,1.4,1.6,0.8,0.8,0.8,1.2,2
+2023-04-01,Crystal Palace,Tottenham,A,1.2,1.0,1.6,2.6,2.2,1.6,2
+2023-04-01,Leeds,West Ham,D,0.8,3.4,0.0,0.8,1.4,1.4,0
+2023-04-02,Everton,Arsenal,H,1.4,1.8,1.2,2.4,0.8,2.6,1
+2023-04-02,Aston Villa,Leicester,A,1.4,1.2,1.6,1.6,1.0,1.4,2
+2023-04-02,Brentford,Southampton,H,2.4,1.6,1.8,1.2,1.4,0.8,1
+2023-04-02,Brighton,Bournemouth,H,2.4,2.0,1.4,1.8,1.6,1.6,1
+2023-04-02,Man United,Crystal Palace,H,1.4,1.6,1.2,1.2,1.8,1.4,1
+2023-04-02,Wolves,Liverpool,H,1.0,1.8,0.4,2.0,2.0,1.8,1
+2023-04-02,Newcastle,West Ham,D,1.0,0.6,2.0,1.2,1.4,1.6,0
+2023-04-03,Arsenal,Bournemouth,H,1.6,0.8,2.0,1.2,1.8,1.0,1
+2023-04-03,Southampton,Leicester,H,0.4,1.8,0.2,1.8,1.4,1.4,1
+2023-04-03,Wolves,Tottenham,H,1.6,1.4,1.0,2.6,1.6,1.6,1
+2023-04-03,Chelsea,Leeds,H,1.2,1.2,1.4,1.2,3.2,0.2,1
+2023-04-03,Aston Villa,Crystal Palace,H,1.4,2.0,1.0,1.4,2.0,1.4,1
+2023-04-03,Man City,Newcastle,H,3.2,1.4,2.0,1.0,0.8,1.6,1
+2023-04-03,Brighton,West Ham,H,2.6,1.6,2.0,1.0,1.4,1.2,1
+2023-04-04,Chelsea,Liverpool,D,1.2,0.6,2.0,1.8,1.8,1.8,0
+2023-04-04,Leicester,Aston Villa,A,1.4,1.6,0.8,1.2,2.0,1.0,2
+2023-04-04,Bournemouth,Brighton,A,1.2,2.2,0.4,2.8,1.0,2.4,2
+2023-04-04,Leeds,Nott'm Forest,H,1.2,2.8,0.2,0.8,0.6,1.6,1
+2023-04-05,Brighton,Man United,H,2.6,0.8,2.4,1.2,1.4,1.2,1
+2023-04-11,Everton,Brighton,D,1.2,1.4,1.6,2.0,0.6,2.4,0
+2023-04-11,Burnley,Crystal Palace,A,1.8,2.0,1.2,1.0,2.0,0.8,2
+2023-04-11,Newcastle,Arsenal,H,0.6,1.2,1.0,1.6,1.0,2.0,1
+2023-04-11,Sheffield United,Wolves,H,0.6,2.4,0.8,1.6,1.2,1.4,1
+2023-04-11,Man City,Bournemouth,H,3.4,1.0,2.6,0.8,2.2,0.2,1
+2023-04-11,Fulham,Man United,A,0.8,1.4,0.8,1.2,1.2,1.2,2
+2023-04-11,Brentford,West Ham,H,2.4,1.0,2.2,0.8,2.2,0.6,1
+2023-05-01,Chelsea,Man City,A,1.2,0.4,2.2,3.8,1.0,2.6,2
+2023-05-02,Tottenham,Man City,H,2.6,1.4,1.6,3.0,0.8,2.6,1
+2023-05-02,Nott'm Forest,Leeds,H,0.8,0.8,1.4,1.6,2.4,0.8,1
+2023-05-03,Liverpool,Man United,H,1.6,1.2,2.0,1.4,1.0,1.8,1
+2023-05-03,Nott'm Forest,Everton,D,0.8,0.6,1.8,1.0,1.2,1.6,0
+2023-05-04,West Ham,Newcastle,A,1.2,2.2,0.6,0.6,0.6,1.6,2
+2023-05-04,Man United,Brentford,H,0.8,2.4,1.2,2.8,1.2,2.6,1
+2023-05-11,Nott'm Forest,Aston Villa,H,1.0,1.0,1.4,1.6,1.6,1.6,1
+2023-05-11,Luton,Liverpool,D,1.0,2.3333333333333335,0.0,2.8,1.2,2.0,0
+2023-05-12,Luton,Arsenal,A,1.0,2.0,0.25,1.2,1.0,1.4,2
+2023-05-12,Wolves,Burnley,H,1.6,1.2,1.4,1.8,2.0,1.2,1
+2023-06-03,Brentford,Fulham,H,2.2,1.2,2.0,0.8,1.2,0.8,1
+2023-06-05,Bournemouth,Chelsea,A,1.0,2.8,0.2,0.8,0.6,1.6,2
+2023-06-05,Man City,Leeds,H,2.4,1.0,2.0,1.0,1.8,0.8,1
+2023-06-05,Tottenham,Crystal Palace,H,1.8,1.0,1.6,0.8,1.6,0.8,1
+2023-06-05,Wolves,Aston Villa,H,1.4,0.6,2.0,1.2,1.6,1.4,1
+2023-06-05,Liverpool,Brentford,H,2.4,1.4,1.6,2.4,1.2,2.4,1
+2023-06-11,Tottenham,Chelsea,A,1.8,0.8,2.0,1.4,0.8,2.0,2
+2023-06-12,Man United,Chelsea,H,0.8,1.8,1.8,1.6,0.6,2.0,1
+2023-06-12,Crystal Palace,Bournemouth,A,0.6,1.6,0.6,0.8,3.0,0.0,2
+2023-06-12,Aston Villa,Man City,H,1.0,1.6,1.2,2.2,0.6,2.4,1
+2023-06-12,Brighton,Brentford,H,1.8,0.2,2.6,1.8,1.2,1.8,1
+2023-06-12,Sheffield United,Liverpool,A,1.0,2.2,1.4,1.8,0.8,1.6,2
+2023-06-12,Fulham,Nott'm Forest,H,1.0,1.8,0.2,1.4,0.8,2.0,1
+2023-07-05,West Ham,Man United,H,1.2,3.0,0.4,0.8,1.8,1.8,1
+2023-07-05,Newcastle,Arsenal,A,1.4,0.8,1.6,2.0,1.6,1.8,2
+2023-07-10,Burnley,Chelsea,A,1.8,1.8,1.2,1.6,1.0,1.4,2
+2023-07-10,Fulham,Sheffield United,H,2.0,1.8,0.6,1.0,2.0,1.4,1
+2023-07-10,Man United,Brentford,H,0.8,1.8,1.8,1.4,1.6,1.2,1
+2023-07-10,Crystal Palace,Nott'm Forest,D,0.6,1.2,0.6,1.2,1.8,1.4,0
+2023-07-10,Luton,Tottenham,A,1.4,2.4,0.2,1.4,1.0,1.8,2
+2023-07-10,Everton,Bournemouth,H,1.2,1.6,1.2,1.2,2.8,0.6,1
+2023-07-12,Everton,Newcastle,H,1.6,0.8,1.8,1.4,1.2,1.4,1
+2023-07-12,Tottenham,West Ham,A,0.8,1.0,1.8,1.0,2.6,0.8,2
+2023-08-02,Man United,Leeds,D,1.0,2.0,1.8,1.0,1.4,0.8,0
+2023-08-04,Wolves,Chelsea,H,1.4,0.4,2.4,2.4,1.2,1.8,1
+2023-08-04,Brentford,Newcastle,A,1.0,1.6,0.6,1.2,1.6,1.2,2
+2023-08-04,Fulham,West Ham,A,2.6,1.8,1.2,1.2,2.6,1.2,2
+2023-08-04,Leicester,Bournemouth,A,1.4,1.6,0.8,0.8,2.8,0.6,2
+2023-08-04,Tottenham,Brighton,H,1.0,1.2,1.8,2.0,0.4,2.6,1
+2023-08-04,Southampton,Man City,A,0.4,1.6,0.6,1.8,0.8,1.8,2
+2023-08-04,Man United,Everton,H,1.4,1.0,2.0,2.0,0.6,2.2,1
+2023-08-04,Aston Villa,Nott'm Forest,H,0.8,0.8,1.8,1.0,1.4,1.6,1
+2023-08-05,Brighton,Everton,A,1.4,0.8,2.0,1.8,1.0,1.6,2
+2023-08-05,Nott'm Forest,Southampton,H,0.8,1.8,1.0,0.4,1.8,0.6,1
+2023-08-05,Fulham,Leicester,H,2.0,1.2,1.2,1.0,1.4,0.6,1
+2023-08-10,Brighton,Liverpool,D,1.2,1.8,1.4,2.2,0.2,2.2,0
+2023-08-10,West Ham,Newcastle,D,1.4,1.8,1.8,1.6,1.4,1.8,0
+2023-08-10,Wolves,Aston Villa,D,1.0,0.4,2.4,1.0,0.8,1.8,0
+2023-08-10,Arsenal,Man City,H,1.8,1.4,1.8,1.4,0.8,1.8,1
+2023-09-04,Liverpool,Arsenal,D,2.6,0.6,2.2,2.0,1.2,2.4,0
+2023-09-04,Leeds,Crystal Palace,A,1.0,1.4,0.8,0.4,0.8,0.8,2
+2023-09-12,Wolves,Nott'm Forest,D,1.0,0.6,2.0,1.2,2.0,1.4,0
+2023-09-12,Crystal Palace,Liverpool,A,1.4,0.8,1.4,1.6,1.0,1.8,2
+2023-09-12,Aston Villa,Arsenal,H,0.8,0.8,1.4,1.8,1.2,2.0,1
+2023-09-12,Man United,Bournemouth,A,1.6,1.0,2.0,1.0,2.4,1.2,2
+2023-09-12,Sheffield United,Brentford,H,1.0,2.6,0.8,1.2,1.8,0.6,1
+2023-09-12,Brighton,Burnley,D,1.4,2.2,1.0,1.6,1.6,1.2,0
+2023-10-12,Tottenham,Newcastle,H,1.2,1.4,1.8,1.8,1.8,1.4,1
+2023-10-12,Everton,Chelsea,H,2.6,1.0,2.0,2.4,1.2,1.8,1
+2023-10-12,Luton,Man City,A,1.2,2.2,0.2,1.2,1.0,1.2,2
+2023-10-12,Fulham,West Ham,H,3.0,1.6,1.8,1.4,1.6,2.0,1
+2023-11-02,Leicester,Tottenham,H,1.6,2.2,0.6,1.8,1.6,1.8,1
+2023-11-02,Southampton,Wolves,A,1.0,2.4,0.6,1.0,0.4,2.2,2
+2023-11-02,West Ham,Chelsea,D,1.2,1.6,2.0,1.8,1.4,1.2,0
+2023-11-02,Arsenal,Brentford,D,1.8,1.2,2.0,0.6,1.6,0.0,0
+2023-11-02,Crystal Palace,Brighton,D,1.2,1.2,0.8,1.4,2.2,1.0,0
+2023-11-02,Fulham,Nott'm Forest,H,3.6,1.0,2.4,1.0,2.2,1.0,1
+2023-11-02,Bournemouth,Newcastle,D,1.4,1.2,1.8,1.0,2.4,0.8,0
+2023-11-03,Leicester,Chelsea,A,1.6,2.0,0.6,1.2,1.4,0.8,2
+2023-11-03,Leeds,Brighton,D,1.2,2.2,0.8,1.2,2.2,0.6,0
+2023-11-03,Everton,Brentford,H,2.6,0.6,2.4,0.8,1.6,0.2,1
+2023-11-03,Bournemouth,Liverpool,H,1.4,0.8,2.0,1.8,1.0,2.2,1
+2023-11-03,Crystal Palace,Man City,A,1.4,1.2,1.0,1.6,1.0,1.8,2
+2023-11-03,Tottenham,Nott'm Forest,H,1.8,1.6,1.8,1.0,1.6,1.0,1
+2023-11-08,Burnley,Man City,A,0.8,1.8,0.8,1.4,0.8,1.8,2
+2023-11-11,Wolves,Tottenham,H,1.2,0.6,2.2,2.2,1.8,1.8,1
+2023-11-11,Man United,Luton,H,1.2,1.4,1.4,1.2,2.0,0.2,1
+2023-11-11,Crystal Palace,Everton,A,1.4,1.0,1.0,2.2,0.6,2.4,2
+2023-11-11,Bournemouth,Newcastle,H,1.2,0.8,2.0,1.2,2.2,1.0,1
+2023-11-11,Arsenal,Burnley,H,1.2,0.8,1.6,0.4,2.2,0.2,1
+2023-12-01,Fulham,Chelsea,H,3.0,1.0,2.4,1.6,1.2,1.4,1
+2023-12-02,Leeds,Man United,A,1.2,2.4,0.4,1.4,1.2,2.0,2
+2023-12-02,Man City,Aston Villa,H,2.0,0.6,2.4,1.0,0.4,2.0,1
+2023-12-03,Fulham,Arsenal,A,2.8,1.0,2.4,1.4,1.0,1.6,2
+2023-12-03,Man United,Southampton,D,1.4,1.0,2.0,1.2,2.6,0.6,0
+2023-12-03,Newcastle,Wolves,H,1.2,2.0,1.0,1.4,0.8,2.2,1
+2023-12-03,West Ham,Aston Villa,D,1.2,1.8,1.6,1.2,0.8,2.0,0
+2023-12-08,Newcastle,Aston Villa,H,1.2,2.0,1.0,1.2,1.0,1.6,1
+2023-12-08,Everton,Fulham,A,2.2,1.0,2.4,2.8,1.4,2.4,2
+2023-12-08,Sheffield United,Crystal Palace,A,0.8,2.2,1.2,1.8,1.6,0.8,2
+2023-12-08,Bournemouth,West Ham,D,1.6,0.2,2.6,1.0,1.8,1.2,0
+2023-12-08,Brighton,Luton,H,1.4,2.2,0.8,1.0,1.8,0.2,1
+2023-12-08,Arsenal,Nott'm Forest,H,1.8,1.0,1.6,1.2,2.2,0.8,1
+2023-12-11,Aston Villa,Fulham,H,1.0,2.0,1.0,2.0,0.8,2.4,1
+2023-12-11,Brighton,Sheffield United,D,2.0,1.4,1.4,0.8,1.4,1.2,0
+2023-12-11,Liverpool,Brentford,H,1.6,1.2,1.6,0.6,1.4,0.2,1
+2023-12-11,Chelsea,Man City,D,1.0,1.4,0.8,1.8,0.6,2.4,0
+2023-12-11,West Ham,Nott'm Forest,H,1.0,2.0,0.8,1.4,2.2,0.8,1
+2024-01-01,Liverpool,Newcastle,H,1.8,1.2,1.6,1.8,1.8,1.4,1
+2024-01-02,Wolves,Man United,A,1.4,1.2,1.6,1.0,0.6,2.0,2
+2024-01-02,West Ham,Bournemouth,D,1.2,2.0,1.2,1.6,0.4,2.2,0
+2024-01-09,Chelsea,Crystal Palace,D,1.8,2.0,1.0,1.0,1.4,0.8,0
+2024-01-09,Newcastle,Tottenham,H,2.0,1.8,1.4,2.2,1.8,1.8,1
+2024-01-09,Man United,Liverpool,A,1.4,1.2,2.0,2.2,1.2,2.0,2
+2024-01-12,Man United,Everton,H,1.4,1.2,2.0,2.2,0.8,2.4,1
+2024-01-12,Chelsea,Aston Villa,H,2.0,1.8,1.2,1.4,2.0,1.4,1
+2024-01-12,Tottenham,Fulham,D,2.0,2.0,1.2,1.2,1.4,1.8,0
+2024-01-12,Liverpool,Man City,H,2.4,0.8,2.4,2.6,1.2,2.6,1
+2024-02-01,West Ham,Brighton,D,1.4,1.2,1.4,1.8,1.2,1.4,0
+2024-02-03,Tottenham,Crystal Palace,H,1.4,2.0,0.8,1.0,1.2,1.0,1
+2024-02-03,Luton,Aston Villa,A,1.0,2.4,0.0,1.2,2.6,0.8,2
+2024-02-03,Brentford,Chelsea,D,0.4,1.6,0.2,2.4,1.6,1.6,0
+2024-02-03,Nott'm Forest,Liverpool,A,1.0,2.2,0.2,2.4,0.6,2.4,2
+2024-02-03,Everton,West Ham,A,1.2,1.4,1.8,1.2,1.0,1.4,2
+2024-02-03,Fulham,Brighton,H,1.0,1.6,1.4,1.6,1.0,1.4,1
+2024-02-03,Newcastle,Wolves,H,2.2,1.8,1.8,1.8,1.8,1.4,1
+2024-02-04,Newcastle,Everton,D,2.8,1.4,2.4,1.0,2.0,1.2,0
+2024-02-04,West Ham,Tottenham,D,1.6,1.0,1.8,1.8,1.4,1.4,0
+2024-02-04,Burnley,Wolves,D,0.6,2.4,0.2,1.6,2.2,1.2,0
+2024-02-04,Bournemouth,Crystal Palace,H,1.2,0.6,1.8,1.0,1.6,0.8,1
+2024-02-04,Nott'm Forest,Fulham,H,0.8,2.2,0.0,1.2,1.4,1.4,1
+2024-02-05,Chelsea,Tottenham,H,2.2,1.8,1.2,1.4,1.4,1.0,1
+2024-02-11,Southampton,Everton,H,1.2,2.0,0.8,1.0,2.2,0.8,1
+2024-02-11,Newcastle,Arsenal,H,2.6,1.4,2.0,1.8,0.8,2.0,1
+2024-02-11,Liverpool,Brighton,H,2.6,0.4,3.0,1.4,1.4,1.2,1
+2024-02-11,Bournemouth,Man City,H,1.2,0.4,2.2,2.2,1.4,2.0,1
+2024-02-11,Ipswich,Leicester,D,1.4,2.0,0.8,1.8,2.4,0.6,0
+2024-02-11,Wolves,Crystal Palace,D,1.4,2.2,0.8,1.0,1.6,0.8,0
+2024-02-11,Nott'm Forest,West Ham,H,1.4,2.0,0.6,1.6,1.0,1.8,1
+2024-03-02,Sheffield United,Aston Villa,A,0.6,1.4,0.8,1.6,2.4,1.4,2
+2024-03-02,Newcastle,Luton,D,1.8,1.2,2.0,0.8,2.2,0.0,0
+2024-03-02,Burnley,Fulham,D,0.8,2.4,0.4,1.4,1.4,1.4,0
+2024-03-02,Brighton,Crystal Palace,H,1.2,1.4,1.0,1.0,1.4,1.0,1
+2024-03-02,Everton,Tottenham,D,0.4,2.0,0.2,1.2,1.4,1.0,0
+2024-03-03,Burnley,Bournemouth,A,1.0,2.0,0.6,1.4,0.6,2.2,2
+2024-03-03,Man City,Man United,H,2.2,1.8,1.4,2.0,1.2,2.0,1
+2024-03-04,Brentford,Brighton,D,0.6,1.6,0.4,1.2,1.4,1.0,0
+2024-03-04,Man City,Aston Villa,H,2.2,2.0,1.4,2.4,2.2,1.8,1
+2024-03-04,Arsenal,Luton,H,1.8,0.8,2.0,1.6,2.8,0.2,1
+2024-03-05,Luton,Everton,D,1.4,2.8,0.2,0.8,2.2,0.4,0
+2024-03-11,Tottenham,Aston Villa,H,1.4,1.4,1.2,2.4,2.0,1.8,1
+2024-03-11,Man United,Chelsea,D,1.8,1.8,1.4,2.4,1.4,1.8,0
+2024-03-12,Leicester,West Ham,H,1.8,2.2,0.8,1.0,1.2,1.2,1
+2024-03-12,Ipswich,Crystal Palace,A,1.0,1.0,1.0,1.0,2.2,0.4,2
+2024-04-02,Arsenal,Liverpool,H,2.0,0.6,2.4,2.4,0.6,3.0,1
+2024-04-02,Man United,West Ham,H,2.0,2.0,1.4,1.0,1.6,1.0,1
+2024-04-02,Bournemouth,Nott'm Forest,D,1.4,0.6,2.2,1.8,1.4,1.2,0
+2024-04-02,Chelsea,Wolves,A,1.8,0.8,1.8,1.4,2.4,0.4,2
+2024-04-03,Sheffield United,Arsenal,A,0.6,2.0,0.8,2.0,0.6,2.4,2
+2024-04-04,Chelsea,Man United,H,2.0,1.4,1.6,1.8,1.4,1.4,1
+2024-04-04,Liverpool,Sheffield United,H,1.8,0.8,2.4,0.4,2.6,0.8,1
+2024-04-05,Man City,Wolves,H,2.4,2.0,1.4,2.0,2.4,1.0,1
+2024-04-05,Sheffield United,Nott'm Forest,A,0.4,3.2,0.2,1.8,1.2,1.4,2
+2024-04-05,Arsenal,Bournemouth,H,2.6,0.6,2.4,1.4,0.6,2.2,1
+2024-04-05,Burnley,Newcastle,A,0.8,2.2,0.4,2.2,1.2,2.2,2
+2024-04-05,Brentford,Fulham,D,0.6,1.4,0.6,1.6,1.8,1.0,0
+2024-04-11,Fulham,Brentford,H,1.4,1.2,1.2,0.4,1.2,0.6,1
+2024-04-12,Southampton,Chelsea,A,1.2,2.0,0.8,2.2,2.0,1.6,2
+2024-04-12,Man City,Nott'm Forest,H,2.6,1.4,1.8,2.0,0.8,2.0,1
+2024-04-12,Newcastle,Liverpool,D,2.6,1.2,2.2,1.8,1.0,2.4,0
+2024-04-12,Arsenal,Man United,H,2.8,0.4,2.4,2.4,1.6,1.4,1
+2024-04-12,Aston Villa,Brentford,H,2.0,2.6,1.2,0.6,1.4,0.6,1
+2024-04-12,Everton,Wolves,H,1.0,1.6,0.6,1.6,2.6,1.0,1
+2024-05-02,Brentford,Man City,A,0.8,1.4,0.6,3.2,1.0,2.4,2
+2024-05-05,Brighton,Aston Villa,H,1.0,1.2,1.0,2.6,2.2,1.8,1
+2024-05-05,Liverpool,Tottenham,H,2.0,1.6,2.0,2.0,1.4,1.6,1
+2024-05-05,Chelsea,West Ham,H,2.8,1.8,2.0,1.0,2.2,0.8,1
+2024-05-10,West Ham,Ipswich,H,0.4,3.0,0.2,0.5,1.0,0.5,1
+2024-05-10,Arsenal,Southampton,H,3.2,0.2,3.0,1.2,2.2,0.8,1
+2024-05-10,Crystal Palace,Liverpool,A,1.0,2.0,0.8,2.6,2.0,2.0,2
+2024-05-10,Man City,Fulham,H,3.6,0.8,3.0,1.6,1.2,1.6,1
+2024-05-10,Everton,Newcastle,D,1.6,1.0,1.2,2.6,1.8,1.8,0
+2024-05-10,Brentford,Wolves,H,0.6,1.6,0.4,1.6,2.8,1.0,1
+2024-05-10,Leicester,Bournemouth,H,2.4,2.2,1.4,1.2,1.0,2.0,1
+2024-05-12,Fulham,Brighton,H,1.4,1.8,1.0,1.2,1.2,1.4,1
+2024-05-12,Bournemouth,Tottenham,H,1.0,1.2,1.4,1.8,2.0,1.0,1
+2024-06-04,Crystal Palace,Man City,A,0.8,1.6,0.8,3.6,1.0,3.0,2
+2024-06-04,Aston Villa,Brentford,D,2.0,2.0,1.2,1.6,2.2,0.8,0
+2024-06-04,Everton,Burnley,H,1.4,0.8,1.2,1.0,2.4,0.4,1
+2024-06-04,Fulham,Newcastle,A,1.8,1.4,1.6,2.4,1.6,1.8,2
+2024-06-04,Luton,Bournemouth,H,1.6,2.8,0.4,0.8,1.0,1.4,1
+2024-06-04,Wolves,West Ham,A,2.0,3.6,0.8,1.0,3.0,0.6,2
+2024-06-04,Brighton,Arsenal,A,1.4,1.2,1.4,3.4,0.4,3.0,2
+2024-06-05,Crystal Palace,Man United,H,1.2,2.2,0.8,1.6,2.0,0.8,1
+2024-06-10,Brighton,Tottenham,H,1.2,1.4,1.4,1.6,2.0,0.8,1
+2024-06-10,Aston Villa,Man United,D,1.6,2.6,0.8,1.4,2.2,0.8,0
+2024-06-10,Chelsea,Nott'm Forest,D,3.4,1.8,2.0,2.0,1.2,2.0,0
+2024-07-04,Sheffield United,Chelsea,D,0.6,3.6,0.2,3.4,1.8,2.0,0
+2024-07-04,Man United,Liverpool,D,1.2,2.0,0.8,2.4,1.8,2.0,0
+2024-07-04,Tottenham,Nott'm Forest,H,2.0,2.2,0.8,1.6,1.2,1.6,1
+2024-07-12,Man United,Nott'm Forest,A,1.0,2.4,0.4,1.2,1.8,1.0,2
+2024-07-12,Crystal Palace,Man City,D,1.6,1.8,1.2,3.6,1.2,3.0,0
+2024-07-12,Aston Villa,Southampton,H,1.4,1.8,1.0,0.8,2.0,0.8,1
+2024-07-12,Brentford,Newcastle,H,2.2,2.8,0.8,2.4,1.6,1.8,1
+2024-08-12,Ipswich,Bournemouth,A,0.6666666666666666,2.0,0.3333333333333333,0.6,1.4,0.8,2
+2024-08-12,Leicester,Brighton,D,2.0,1.2,2.0,1.0,1.6,1.4,0
+2024-08-12,Tottenham,Chelsea,A,2.2,2.0,1.2,3.4,1.4,2.2,2
+2024-08-12,Fulham,Arsenal,D,1.4,1.2,1.4,3.4,0.2,3.0,0
+2024-09-03,Man United,Everton,H,0.8,2.2,0.4,1.6,0.6,1.8,1
+2024-09-03,Bournemouth,Sheffield United,D,0.8,1.4,1.2,0.8,3.8,0.2,0
+2024-09-03,Wolves,Fulham,H,1.8,3.6,0.6,1.6,1.4,1.4,1
+2024-09-03,Crystal Palace,Luton,D,1.8,1.4,1.4,1.8,2.2,1.0,0
+2024-09-03,Arsenal,Brentford,H,2.4,0.4,2.6,2.8,2.8,1.4,1
+2024-09-11,Brentford,Bournemouth,H,2.8,2.6,1.4,1.2,1.2,1.4,1
+2024-09-11,Crystal Palace,Fulham,A,1.8,1.6,1.0,1.4,1.6,0.8,2
+2024-09-11,West Ham,Everton,D,1.4,2.6,1.2,1.2,0.6,1.6,0
+2024-09-11,Wolves,Southampton,H,1.4,3.4,0.6,0.6,1.8,0.8,1
+2024-09-11,Brighton,Man City,H,1.4,2.0,1.4,3.0,1.4,2.6,1
+2024-09-11,Liverpool,Aston Villa,H,2.6,1.6,2.2,1.4,1.0,1.6,1
+2024-09-12,West Ham,Wolves,H,1.2,2.0,1.4,1.6,2.4,1.2,1
+2024-10-02,Liverpool,Burnley,H,2.4,1.4,2.2,0.8,2.0,0.4,1
+2024-10-02,Fulham,Bournemouth,H,1.4,1.0,1.4,1.6,1.6,1.4,1
+2024-10-02,Man City,Everton,H,2.6,1.8,2.0,1.0,0.4,1.6,1
+2024-10-02,Nott'm Forest,Newcastle,A,1.6,2.0,1.4,2.0,1.6,1.6,2
+2024-10-02,Luton,Sheffield United,A,1.6,1.8,1.2,1.2,3.2,0.4,2
+2024-10-02,Tottenham,Brighton,H,2.0,2.6,0.6,1.6,2.2,1.4,1
+2024-10-02,Wolves,Brentford,A,1.8,2.0,1.2,3.2,2.4,2.0,2
+2024-10-03,Aston Villa,Tottenham,A,0.8,1.2,1.0,2.0,2.0,1.2,2
+2024-10-03,Brighton,Nott'm Forest,H,1.6,2.0,1.4,1.4,2.4,0.8,1
+2024-10-03,West Ham,Burnley,D,1.6,1.6,2.0,0.8,2.4,0.2,0
+2024-10-03,Liverpool,Man City,D,2.4,1.0,2.6,2.4,1.6,2.0,0
+2024-10-11,Nott'm Forest,Newcastle,A,1.4,2.0,0.8,1.8,1.8,1.6,2
+2024-10-11,Man United,Leicester,H,1.2,1.8,1.0,1.6,1.4,1.6,1
+2024-10-11,Chelsea,Arsenal,D,3.4,1.4,2.2,2.2,0.6,2.6,0
+2024-10-11,Tottenham,Ipswich,A,2.8,1.8,1.8,0.75,2.0,0.25,2
+2024-11-02,West Ham,Arsenal,A,2.0,1.0,2.2,2.0,0.8,2.2,2
+2024-11-02,Aston Villa,Man United,A,0.8,1.8,1.0,1.8,1.0,1.6,2
+2024-11-03,Chelsea,Newcastle,H,2.6,1.4,1.8,1.8,1.4,2.0,1
+2024-11-05,Nott'm Forest,Chelsea,A,1.4,2.4,0.6,2.2,1.8,1.8,2
+2024-11-05,Bournemouth,Brentford,A,1.6,2.2,0.8,2.6,1.8,2.0,2
+2024-11-05,West Ham,Luton,H,1.2,2.0,1.6,1.0,1.6,1.0,1
+2024-11-05,Wolves,Crystal Palace,A,1.2,1.4,1.2,1.8,1.8,1.0,2
+2024-11-05,Newcastle,Brighton,D,2.2,2.0,1.8,1.8,1.4,2.0,0
+2024-11-05,Everton,Sheffield United,H,0.2,0.8,1.0,1.8,2.2,1.0,1
+2024-11-05,Fulham,Man City,A,1.4,1.0,1.4,2.0,1.4,1.6,2
+2024-11-05,Tottenham,Burnley,H,2.6,1.6,1.8,0.8,2.4,0.2,1
+2024-12-01,Burnley,Luton,D,1.0,2.4,0.2,1.2,1.8,1.0,0
+2024-12-02,Crystal Palace,Chelsea,A,2.0,1.2,1.6,2.6,2.0,2.2,2
+2024-12-05,Man United,Arsenal,A,2.2,1.2,2.0,2.6,0.6,2.2,2
+2025-01-01,Brentford,Arsenal,A,2.4,1.4,2.4,2.2,0.6,2.2,2
+2025-01-02,Wolves,Aston Villa,H,1.2,1.6,1.2,0.4,1.6,0.8,1
+2025-01-02,Newcastle,Fulham,A,2.2,2.2,1.4,1.4,1.6,1.4,2
+2025-01-02,Ipswich,Southampton,A,1.0,1.8,0.8,0.6,2.2,0.6,2
+2025-01-02,Everton,Leicester,H,0.4,0.8,1.4,1.4,1.4,1.6,1
+2025-01-02,Bournemouth,Liverpool,A,1.6,2.2,0.8,1.8,0.8,2.2,2
+2025-01-02,Nott'm Forest,Brighton,H,1.6,2.4,0.6,1.4,1.2,1.6,1
+2025-01-04,Arsenal,Fulham,H,2.6,0.6,2.6,1.6,1.6,1.8,1
+2025-01-04,Wolves,West Ham,H,1.2,1.4,1.2,1.4,2.0,1.6,1
+2025-01-04,Nott'm Forest,Man United,H,2.4,2.0,0.6,1.8,1.0,1.8,1
+2025-01-05,Nott'm Forest,Brentford,A,2.2,1.4,1.2,1.8,1.6,1.8,2
+2025-02-02,Brentford,Tottenham,A,2.0,1.2,2.4,2.4,1.6,1.8,2
+2025-02-02,Arsenal,Man City,H,2.6,0.6,2.6,2.0,1.0,1.6,1
+2025-02-02,Man United,Crystal Palace,A,1.4,0.6,1.8,1.4,1.8,1.0,2
+2025-02-04,Bournemouth,Ipswich,A,1.2,2.4,0.2,1.0,2.0,0.6,2
+2025-02-04,Brighton,Aston Villa,A,1.0,2.2,1.4,0.4,2.0,0.6,2
+2025-02-04,Man City,Leicester,H,1.8,1.6,1.4,1.2,2.0,1.4,1
+2025-02-04,Southampton,Crystal Palace,D,0.8,2.4,0.6,1.4,1.4,1.4,0
+2025-02-04,Newcastle,Brentford,H,2.0,1.8,1.4,1.4,1.2,1.8,1
+2025-02-04,Liverpool,Everton,H,2.0,0.8,2.2,1.0,0.8,1.4,1
+2025-02-05,Man City,Wolves,H,2.0,1.2,2.0,1.0,1.4,1.2,1
+2025-03-02,Chelsea,West Ham,H,2.8,1.8,2.6,1.4,2.2,1.4,1
+2025-03-04,Chelsea,Tottenham,H,2.4,1.4,2.6,2.2,0.8,2.4,1
+2025-03-05,Aston Villa,Fulham,H,0.8,2.0,0.6,1.6,1.6,1.8,1
+2025-03-05,Leicester,Southampton,H,0.6,2.2,0.8,0.8,1.6,0.8,1
+2025-03-05,Arsenal,Bournemouth,A,3.4,0.6,3.0,1.0,2.4,0.0,2
+2025-03-05,Everton,Ipswich,D,1.0,0.6,1.4,1.4,2.0,1.2,0
+2025-04-01,Brighton,Arsenal,D,0.6,2.6,0.8,2.4,1.0,2.4,0
+2025-04-01,Southampton,Brentford,A,0.6,1.4,0.8,1.2,1.6,1.2,2
+2025-04-01,Crystal Palace,Chelsea,D,1.4,1.4,1.4,2.4,1.2,3.0,0
+2025-04-01,Bournemouth,Everton,H,1.0,2.0,0.6,1.4,1.0,1.4,1
+2025-04-01,Tottenham,Newcastle,A,1.8,0.8,1.8,1.8,1.6,1.4,2
+2025-04-01,Aston Villa,Leicester,H,1.0,1.6,1.2,0.8,2.2,0.8,1
+2025-04-01,Man City,West Ham,H,1.8,1.2,2.0,1.2,2.4,0.8,1
+2025-04-05,Chelsea,Liverpool,H,2.0,1.0,2.6,1.8,0.4,2.6,1
+2025-04-05,Brighton,Newcastle,D,0.6,2.4,1.0,1.6,1.6,1.4,0
+2025-04-05,West Ham,Tottenham,D,1.0,2.8,0.6,1.2,1.2,1.2,0
+2025-04-05,Brentford,Man United,H,1.8,1.4,1.2,1.0,1.0,1.2,1
+2025-05-01,Liverpool,Man United,D,1.6,1.0,2.0,1.0,1.8,0.6,0
+2025-05-01,Fulham,Ipswich,D,1.2,1.8,1.2,1.6,1.6,1.4,0
+2025-05-04,Crystal Palace,Brighton,H,1.6,1.2,1.6,0.6,2.6,0.6,1
+2025-05-04,Everton,Arsenal,D,1.4,0.8,1.4,2.4,1.2,2.0,0
+2025-05-04,Aston Villa,Nott'm Forest,H,1.4,1.0,1.8,2.2,1.6,1.2,1
+2025-05-04,Ipswich,Wolves,A,1.8,1.6,1.6,0.8,1.2,1.2,2
+2025-05-04,West Ham,Bournemouth,D,1.2,1.8,0.8,1.0,1.4,1.2,0
+2025-05-05,Crystal Palace,Nott'm Forest,D,1.4,1.2,1.6,2.2,1.4,1.2,0
+2025-06-01,Wolves,Nott'm Forest,A,1.2,1.0,1.8,2.0,1.0,1.4,2
+2025-06-04,Man United,Man City,D,1.0,2.0,0.2,2.4,1.2,2.4,0
+2025-06-04,Tottenham,Southampton,H,1.2,1.0,1.4,0.6,2.2,0.8,1
+2025-06-04,Fulham,Liverpool,H,1.0,2.0,0.8,1.4,1.2,1.6,1
+2025-06-04,Brentford,Chelsea,D,2.4,1.4,1.8,2.0,0.8,2.6,0
+2025-07-04,Leicester,Newcastle,A,0.6,2.2,0.6,1.4,1.2,1.6,2
+2025-08-03,Wolves,Everton,D,1.0,1.0,1.8,1.4,1.0,1.0,0
+2025-08-03,Brentford,Aston Villa,A,2.0,1.4,1.4,1.6,0.8,2.4,2
+2025-08-03,Brighton,Fulham,H,0.6,2.8,0.4,1.6,1.6,1.4,1
+2025-08-03,Liverpool,Southampton,H,1.6,1.6,1.4,0.8,2.4,0.8,1
+2025-08-03,Crystal Palace,Ipswich,H,1.4,0.8,1.8,1.6,1.8,1.0,1
+2025-08-03,Nott'm Forest,Man City,H,1.2,1.0,1.4,1.6,1.2,2.0,1
+2025-09-03,Man United,Arsenal,D,1.0,1.8,0.4,2.0,1.2,1.6,0
+2025-09-03,Chelsea,Leicester,H,1.4,0.6,2.2,0.6,2.2,0.6,1
+2025-09-03,Tottenham,Bournemouth,D,1.4,1.0,1.4,1.2,1.4,1.4,0
+2025-10-03,West Ham,Newcastle,A,1.0,2.0,0.4,1.8,1.0,2.0,2
+2025-10-05,Fulham,Everton,A,1.4,1.8,0.8,0.8,1.2,0.6,2
+2025-10-05,Southampton,Man City,D,0.6,2.8,0.2,1.4,0.4,2.0,0
+2025-10-05,Bournemouth,Aston Villa,A,1.6,1.4,1.6,1.8,0.4,3.0,2
+2025-10-05,Ipswich,Brentford,A,1.4,1.6,1.0,2.0,1.2,1.4,2
+2025-10-05,Wolves,Brighton,A,0.8,1.2,1.4,1.0,1.6,1.0,2
+2025-11-05,Newcastle,Chelsea,H,1.8,0.6,2.6,1.2,0.4,2.2,1
+2025-11-05,Man United,West Ham,A,1.2,1.8,0.6,1.0,2.0,0.4,2
+2025-11-05,Nott'm Forest,Leicester,D,1.2,1.0,1.4,0.6,1.6,0.6,0
+2025-11-05,Liverpool,Arsenal,D,1.8,1.8,1.4,1.8,1.2,1.2,0
+2025-11-05,Tottenham,Crystal Palace,A,1.4,1.4,1.0,1.2,0.8,1.8,2
+2025-12-02,Everton,Liverpool,D,1.4,1.2,1.2,2.0,2.2,1.0,0
+2025-12-04,Arsenal,Brentford,D,1.2,1.4,0.8,2.0,0.8,2.0,0
+2025-12-04,Southampton,Aston Villa,A,0.4,2.6,0.2,1.4,0.4,3.0,2
+2025-12-04,Nott'm Forest,Everton,A,1.6,1.0,1.6,1.4,1.2,1.2,2
+2025-12-04,Brighton,Leicester,D,1.4,1.0,1.6,1.0,1.6,0.8,0
+2025-12-04,Man City,Crystal Palace,H,1.0,0.4,1.6,1.4,0.6,2.2,1
